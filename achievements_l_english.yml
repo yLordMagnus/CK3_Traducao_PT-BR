@@ -5,7 +5,7 @@
  ACHIEVEMENT_GROUP_hard_achievements:0 "Difícil"
  ACHIEVEMENT_GROUP_very_hard_achievements:0 "Muito Difícil"
  
- #Achievement Titles
+ #Achievement Titles.
  ACHIEVEMENT_until_death_do_us_part_achievement:0 "Até que a Morte nos Separe"
  ACHIEVEMENT_way_of_life_achievement:0 "Modo de vida"
  ACHIEVEMENT_a_legacy_to_last_the_ages_achievement:0 "Um Legado para Durar as Eras"
@@ -63,7 +63,7 @@
  ACHIEVEMENT_beacon_of_progress_achievement:0 "Sinalizador de Progresso"
  ACHIEVEMENT_mother_of_us_all_achievement:0 "Mãe de Todos Nós"
 
- #Unlocked Achievement Desc
+ #Unlocked Achievement Desc.
  ACHIEVEMENT_DESC_until_death_do_us_part_achievement:1 "[marry|E] com outro [character|E]"
  ACHIEVEMENT_DESC_way_of_life_achievement:1 "Obtenha #EMP todas#! as regalias em um [lifestyle|E]"
  ACHIEVEMENT_DESC_a_legacy_to_last_the_ages_achievement:1 "Complete an entire [dynasty_perk|E] path"
@@ -121,7 +121,7 @@
  ACHIEVEMENT_DESC_beacon_of_progress_achievement:1 "Have your [culture|E] unlock all [innovations|E], excluding regional and culture-specific $game_concept_innovations$"
  ACHIEVEMENT_DESC_mother_of_us_all_achievement:1 "Starting as Magajiva Daura, reform an African pagan faith, and convert all [counties|E] in Africa to it"
 
- #Locked Achievement Desc
+ #Locked Achievement Desc.
  ACHIEVEMENT_LOCKED_GENERIC:0 "Achievement locked"
  NOT_ACHIEVEMENT_DESC_until_death_do_us_part_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
  NOT_ACHIEVEMENT_DESC_way_of_life_achievement:0 "$ACHIEVEMENT_LOCKED_GENERIC$"
